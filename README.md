@@ -1,4 +1,4 @@
-# cypress-basico-v2
+# cacat-web-cypress
 
 SAmple project for the basic course of the Talking About Testing online school.
 
@@ -33,5 +33,3 @@ Or, run `npm run cy:open:mobile` to open Cypress in interactive mode on a mobile
 If you want to support this project, leave a ⭐.
 
 ___
-
-This project was created with 💚 by [Walmyr](https://walmyr.dev).
