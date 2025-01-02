@@ -28,8 +28,5 @@ Run `npm run cy:run:mobile` (or `npm t` for the short version) to run the test i
 
 Or, run `npm run cy:open:mobile` to open Cypress in interactive mode on a mobile viewport.
 
-## Support this project
-
-If you want to support this project, leave a ⭐.
 
 ___
